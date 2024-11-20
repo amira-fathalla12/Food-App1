@@ -1,0 +1,31 @@
+.auth-container {
+    background-image: url(./assets/background.png);
+    background-size: cover;
+    background-position: center center;
+    font-family: "Montserrat", sans-serif;
+}
+
+.bg-overlay {
+    background: linear-gradient(to left,
+            rgba(0, 0, 0, 0.4),
+            rgba(47, 140, 51, 0.7));
+}
+
+.sidebar-container .ps-sidebar-root {
+    border-top-right-radius: 40px;
+}
+
+.sidebar-container .ps-sidebar-container {
+    background-color: #1f263e;
+    border-top-right-radius: 40px;
+    color: #fff;
+}
+
+.sidebar-container .ps-sidebar-container .ps-menu-button:hover {
+    background-color: rgba(0, 146, 71, 0.1);
+}
+.header-container{
+    background-image: url(./assets/Header.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
